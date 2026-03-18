@@ -39,16 +39,16 @@ Bangun platform **payment gateway sendiri** tanpa harus mulai dari nol. Source c
 
 ## 🖼️ Preview Sistem
 
-### 💳 Dashboard Payment
+### 💳 halaman depan
 ![Dashboard](https://cekstore.com/assets/images/product/1768891259240.png)
 
-### 📊 Monitoring Transaksi
+### 📊 dashboard
 ![Transaksi](https://cekstore.com/assets/images/product/17688912592402.png)
 
-### 🔌 API & Integrasi
+### 🔌 kirim uang
 ![API](https://cekstore.com/assets/images/product/17688912592403.png)
 
-### ⚙️ Admin Panel
+### ⚙️ dompet saya
 ![Admin](https://cekstore.com/assets/images/product/17688912592404.png)
 
 ---
